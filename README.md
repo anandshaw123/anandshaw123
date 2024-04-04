@@ -7,19 +7,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandshaw123&label=Profile%20views&color=0e75b6&style=flat" alt="anandshaw123" /> </p>
 
-- 🔭 I’m interested in **Data Science || Data Analysis role**
+- 🔭 I’m interested in: **Data Science || Data Analysis role**
 
-- 🌱 I’m currently learning **Data Science || Machine Learning || Data Analysis || NLP ||Deep Learning || MySQL || Tableau || Statistics.**
+- 🌱 I’m currently learning: **Data Science || Machine Learning || Data Analysis || NLP ||Deep Learning || MySQL || Tableau || Statistics.**
 
-- 👯 I’m looking to collaborate on **Data Science Projects.**
+- 👯 I’m looking to collaborate on: **Data Science Data Analysis Projects.**
 
-- 📝 I regularly write articles on [https://medium.com/@anand.shaw7000](https://medium.com/@anand.shaw7000)
+- 📝 I regularly write articles on: [https://medium.com/@anand.shaw7000](https://medium.com/@anand.shaw7000)
 
-- 💬 Ask me about **Data Science Machine Learning Data Analysis any tech related Question or Problems.**
+- 💬 Ask me about: **Data Science Machine Learning Data Analysis any tech related Question or Problems.**
 
-- 📫 How to reach me **anand.shaw6000@gmail.com**
+- 📫 How to reach me: **anand.shaw6000@gmail.com**
 
-- ⚡ Fun fact **I Prefer Tea over Coffee.**
+- ⚡ Fun fact: **I Prefer Tea over Coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
