@@ -1,10 +1,7 @@
 <img align="center" alt="Coding" width="900" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif">
 
 
-<div align="center" style="font-weight: bold; font-size: 20px;">
-  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi!" style="width: 100px; height: auto;"/> My name is Anand Shaw
-</div>
-
+<h1 align="center">Hi 👋, I'm Anand Shaw</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandshaw123&label=Profile%20views&color=0e75b6&style=flat" alt="anandshaw123" /> </p>
