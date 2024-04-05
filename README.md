@@ -36,3 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandshaw123&show_icons=true&locale=en" alt="anandshaw123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandshaw123&" alt="anandshaw123" /></p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/anandshaw123"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anandshaw123" /></a></p><br><br>
