@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandshaw123&label=Profile%20views&color=0e75b6&style=flat" alt="anandshaw123" /> </p>
 
-- 🔭 I’m interested in: **Data Science || Data Analysis role**
+- 🔭 I’m interested in: **Data Scientist || Data Analyst role**
 
 - 🌱 I’m currently learning: **Data Science || Machine Learning || Data Analysis || NLP ||Deep Learning || MySQL || Tableau || Statistics.**
 
