@@ -3,8 +3,6 @@
 
 <h1 align="center">Hi 👋 I'm Anand Shaw</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandshaw123&show_icons=true&locale=en&layout=compact" alt="anandshaw123" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandshaw123&label=Profile%20views&color=0e75b6&style=flat" alt="anandshaw123" /> </p>
 
 - 🔭 I’m interested in: **Data Scientist || Data Analyst role**
