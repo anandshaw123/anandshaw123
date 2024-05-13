@@ -48,7 +48,3 @@
 #### **If you like my work, you can support me by buying me a coffee by clicking the link below**
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/anandshaw123"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anandshaw123" /></a></p><br><br>
-
-
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
