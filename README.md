@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="900" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif">
 
 
-<h1 align="center">Hi 👋 I'm Anand Shaw</h1>
+<h1 align="center">Hi 👋 I'm Anand</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandshaw123&label=Profile%20views&color=0e75b6&style=flat" alt="anandshaw123" /> </p>
 
