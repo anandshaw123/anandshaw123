@@ -21,7 +21,7 @@
 
 - 💬 Ask me about: **Data Science Machine Learning Data Analysis any tech related Problems.**
 
-- 📫 How to reach me: **NA**
+- 📫 How to reach me: **anand.shaw6000@gmail.com**
 
 - ⚡ Fun fact: **I Prefer Tea over Coffee.**
 
