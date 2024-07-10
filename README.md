@@ -19,7 +19,7 @@
 
 <!--- 📝 I write articles on: [https://medium.com/@anand.shaw7000](https://medium.com/@anand.shaw7000)-->
 
-- 💬 Ask me about: **Data Science Machine Learning Data Analysis any tech related Problems.**
+- 💬 Ask me about: **Data Science Machine Learning related Problems.**
 
 - 📫 How to reach me: **anand.shaw6000@gmail.com**
 
