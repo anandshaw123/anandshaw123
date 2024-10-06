@@ -13,7 +13,7 @@
 
 - 🔭 I’m interested in: **Data Scientist || Data Analyst role**
 
-- 🌱 My Skills: **Data Science || Machine Learning || Deep Learning || Data Analysis || NLP || MySQL || Tableau || Statistics || Streamlit || Flask || Pandas || Numpy || Matplotlib || Seaborn || Plotly.**
+- 🌱 My Skills: **Data Science || Data Analysis || Machine Learning || Deep Learning || NLP || MySQL || Excel || Tableau || Statistics || Streamlit || Flask || Pandas || Numpy || Matplotlib || Seaborn || Plotly.**
 
 - 👯 I’m looking to collaborate on: **Data Science Data Analysis Projects.**
 
