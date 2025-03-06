@@ -6,7 +6,7 @@
 <!-- <h1 align="center">Hi 👋 I'm Anand</h1> -->
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38b6ff&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Anand+Shaw.;&#127912;+Telling+stories+with+data.)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38b6ff&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Anand+Shaw.;I+am+a+Data+Analyst;&#127912;+Telling+stories+with+data.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38b6ff&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Anand+Shaw.;I'm+a+Data+Analyst.;&#127912;+Telling+stories+with+data.)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandshaw123&label=Profile%20views&color=0e75b6&style=flat" alt="anandshaw123" /> </p>
@@ -15,9 +15,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandshaw123&theme=onestar" alt="anandshaw123" /></a> </p>
 
 
-- 🔭 I’m interested in: **Data Scientist || Data Analyst role**
+- 🔭 I’m interested in: **Data Analyst role**
 
-- 🌱 My Skills: **Data Science || Data Analysis || Machine Learning || Deep Learning || NLP || MySQL || Excel || Tableau || Statistics || Streamlit || Flask || Pandas || Numpy || Matplotlib || Seaborn || Plotly.**
+- 🌱 My Skills: **Data Science || Data Analysis || Machine Learning || Deep Learning || NLP || Selenium || MySQL || Excel || Tableau || Statistics || Streamlit || Flask || Pandas || Numpy || Matplotlib || Seaborn || Plotly.**
 
 - 👯 I’m looking to collaborate on: **Data Science Data Analysis Projects.**
 
