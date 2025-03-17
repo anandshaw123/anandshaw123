@@ -3,13 +3,11 @@
 <img align="center" alt="Coding" width="900" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif">
 
 
-<!-- <h1 align="center">Hi 👋 I'm Anand</h1> -->
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38b6ff&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Anand+Shaw.;&#127912;+Telling+stories+with+data.)](https://git.io/typing-svg) -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38b6ff&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Anand+Shaw.;I'm+a+Data+Analyst.;I'm+a+Data+Scientist.;&#127912;+Telling+stories+with+data.)](https://git.io/typing-svg)
 
 
-<!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=anandshaw123&label=Profile%20views&color=0e75b6&style=flat" alt="anandshaw123"/></p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandshaw123&label=Profile%20views&color=0e75b6&style=flat" alt="anandshaw123" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandshaw123&theme=onestar" alt="anandshaw123" /></a> </p>
