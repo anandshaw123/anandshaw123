@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on: **Data Science Data Analysis Projects.**
 
-<!--- 📝 I write articles on: [https://medium.com/@anand.shaw7000](https://medium.com/@anand.shaw7000)-->
+- 📝 I write articles on: [https://medium.com/@anand.shaw7000](https://medium.com/@anand.shaw7000)
 
 - 💬 Ask me about: **Data Science Machine Learning related Problems.**
 
