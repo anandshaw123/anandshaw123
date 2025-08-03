@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandshaw123&theme=onestar" alt="anandshaw123" /></a> </p>
 
 
-- 🔭 I’m interested in: **Data Analyst role**
+- 🔭 I’m interested in: **Data Analyst & Data Scientist Role**
 
 - 🌱 My Skills: **Data Science || Data Analysis || Machine Learning || Deep Learning || NLP || Selenium || MySQL || Excel || Tableau || Statistics || Streamlit || Flask || Pandas || Numpy || Matplotlib || Seaborn || Plotly.**
 
