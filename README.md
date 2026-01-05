@@ -3,7 +3,6 @@
 <img align="center" alt="Coding" width="900" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif">
 
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38b6ff&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Anand+Shaw.;I'm+a+Data+Analyst.;I'm+a+Data+Scientist.;&#127912;+Telling+stories+with+data.)](https://git.io/typing-svg)
 
 
